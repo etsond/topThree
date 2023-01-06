@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/topThree/static/css/main.53bcab0a.css",
+    "main.js": "/topThree/static/js/main.0886ceb2.js",
+    "static/media/homeland.png": "/topThree/static/media/homeland.191a52bc3fd089dba0e7.png",
+    "static/media/seinfeld.png": "/topThree/static/media/seinfeld.4e3c0638a268a9a8d379.png",
+    "static/media/travelers.jpeg": "/topThree/static/media/travelers.8e01ec36529ff84bf291.jpeg",
+    "index.html": "/topThree/index.html",
+    "main.53bcab0a.css.map": "/topThree/static/css/main.53bcab0a.css.map",
+    "main.0886ceb2.js.map": "/topThree/static/js/main.0886ceb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bcab0a.css",
+    "static/js/main.0886ceb2.js"
+  ]
+}

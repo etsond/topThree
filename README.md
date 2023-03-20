@@ -7,9 +7,10 @@ TopThree is a React app that displays my top three favorite TV shows . It was cr
 - Displays top three favorite movies
 - Simple and easy to navigate design
 - Responsive design that works on all screen sizes
-Technologies Used
+### What I Used
 
 1. React
+2. SVG images
 
 
 ## Installation
